@@ -3,6 +3,14 @@
 
 [Get started with the Navigation component](https://developer.android.com/guide/navigation/navigation-getting-started) by Google Developers
 
+__Android Jetpack: Introducing Navigation Component__ [by google](https://www.youtube.com/watch?time_continue=54&v=Y0Cs2MQxyIs&feature=emb_logo)
+
+* Simplifed setup for common navigation patterns
+* Handles backstack
+* Automates fragmnet transactions
+* Type safe arrguments passing
+* Handles transition animations
+* Simplified deep linking
 
 
 #### Project Instructions
@@ -53,6 +61,6 @@
 
 5. Insert fragments to Graph as destination
 
-__ What is difference between the pop animation and non pop animation?__
+__What is difference between the pop animation and non pop animation?__
 pop refer to what happens when you navigate backward (back stack)
 not pop is forward
